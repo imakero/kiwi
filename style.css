@@ -31,3 +31,11 @@
 .extra-super-small-text {
   font-size: 0.6rem;
 }
+
+.btn-outline-secondary:hover {
+  background-color: #c7ebbe;
+}
+
+.btn-outline-secondary.active:hover {
+  background-color: #c7ebbe;
+}
