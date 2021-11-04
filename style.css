@@ -1,7 +1,3 @@
-.stars-icon {
-  width: 24px;
-}
-
 .btn.active {
   font-weight: bold;
   background-color: transparent;
@@ -59,4 +55,8 @@
 
 .round-button-icon {
   transform: translate(-50%, -50%);
+}
+
+svg.stars-icon {
+  width: 24px;
 }
