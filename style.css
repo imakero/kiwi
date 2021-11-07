@@ -68,3 +68,12 @@ svg.stars-icon {
 .low-index {
   z-index: 1031;
 }
+
+.round-image {
+  width: 58px;
+  height: 58px;
+}
+
+.home-padding {
+  padding-top: 53px;
+}
