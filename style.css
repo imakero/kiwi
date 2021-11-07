@@ -60,3 +60,11 @@
 svg.stars-icon {
   width: 24px;
 }
+
+.high-index {
+  z-index: 1032;
+}
+
+.low-index {
+  z-index: 1031;
+}
